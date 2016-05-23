@@ -1,12 +1,3 @@
-/*
-
-Author: Robert Massicotte
-Course: CDA5155
-Assignment: Memory Hierarchy Simulator
-Compilation: g++ -g -std=c++11 hierarchy.cpp -o hierarchy.exe
-
-*/
-
 #include <climits>
 #include <cmath>
 #include <cstdlib>
